@@ -1,4 +1,4 @@
-# Hide and seek RAT
+# Hide and Seek RAT
 A remote administrative tool for windows.
 
 # Functionalities 
