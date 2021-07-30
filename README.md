@@ -9,5 +9,5 @@ A remote administrative tool for windows.
 
 # Tech used 
 * Winsock
-* linux System Apis
+* linux System apis
 * Windows system apis
