@@ -1,4 +1,4 @@
-# Hide and Seek RAT
+# WonnaRAT
 A remote administrative tool for windows.
 
 # Functionalities 
